@@ -14,4 +14,7 @@ public class SpringGitTesting123Application {
 		System.out.print("HelloWorld");
 	}
 
+	private void Test456() {
+		System.out.print("HelloWorld");
+	}
 }
